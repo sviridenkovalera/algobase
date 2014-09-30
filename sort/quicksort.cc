@@ -1,3 +1,4 @@
+//sort range [left; right)
 template <typename T>
 void quicksort(T *array, int left, int right)
 {
